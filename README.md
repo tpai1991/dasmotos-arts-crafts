@@ -19,7 +19,7 @@ Due to the website's basic nature, many features can be added in the future, esp
 
 To install the project, clone the git repository and drag the file into your selected web browser. Otherwise, open a web browser and enter the file path of the `index.html` file.
 
-![How to view website](images/how-to-run.png)
+![How to view website](resources/images/how-to-run.png)
 
 ## Credits
 
