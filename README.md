@@ -1,6 +1,6 @@
 # Dasmoto's Arts & Crafts
 
-![Dasmoto's Arts and Crafts spec file](images/dasmotos-arts-spec.jpg)
+![Dasmoto's Arts and Crafts spec file](resources/images/dasmotos-arts-spec.jpg)
 
 ## Description
 
